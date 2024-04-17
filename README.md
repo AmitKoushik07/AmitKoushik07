@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkoushik07&label=Profile%20views&color=0e75b6&style=flat" alt="amitkoushik07" /> </p>
 
-- 🌱 I’m currently learning **Networking(Linux),AWS,Dockers,High Level Design, Hadoop**
+- 🌱 I’m currently learning **Kafka,Spring Boot,Angular,AWS,Dockers,High Level Design, Hadoop**
 
-- 💬 Ask me about **DSA,C++,Python,OS,Linux,HLD.**
+- 💬 Ask me about **Spring Boot, Hibernate, Java, DSA, C++, Python, OS, Linux, HLD.**
 
 - 📫 How to reach me **amitgn2001@gmail.com**
 
